@@ -1,4 +1,6 @@
-# flipkart-autobuy
+# flipkart-autobuy-old
+
+# This project is moved to [flipkart-autobuy](https://github.com/atultherajput/flipkart-autobuy)
 
 Automated program to buy Flipkart products in flash sale online. 
 Specifically to buy products which go out of sale in a fraction of seconds and are too difficult to buy manually.
